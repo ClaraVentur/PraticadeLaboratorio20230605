@@ -1,0 +1,41 @@
+
+table{
+    margin:auto;
+}
+td{
+    border-radius:10px; 
+    height:50px;
+    width:150px;
+    font-family:Verdana;
+    font-size: 20px;
+    text-align: center;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(224, 10, 10);
+}
+#estacoes
+{
+    width: 25px;
+}
+img
+{
+    width: 200px;
+    height: 150px;
+}
+.deLadinho
+{
+    -webkit-transform: rotate(-90deg);
+}
+
+.primavera{
+    border-color: rgb(44, 148, 30);
+}
+.verao{
+    border-color: rgb(245, 241, 29);
+}
+.outono{
+    border-color: brown;
+}
+.inverno{
+    border-color: blue;
+}
